@@ -1,0 +1,15 @@
+# emacs
+*~
+
+# log files from scripts
+bin/*.log
+
+# Fetched image files, .iso or .img
+images/*
+
+# Ignore archives and compressed files
+*.tgz
+*.txz
+*.xz
+*.gz
+*.zip
